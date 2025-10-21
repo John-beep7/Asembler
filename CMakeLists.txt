@@ -7,4 +7,6 @@ add_executable(Asembler2
         main.cpp
         src_gauss_jordan.cpp
         src_gauss_jordan.h
+        src_gauss_jordan_asm.s
+
 )
