@@ -1,0 +1,3 @@
+C:/Users/John/CLionProjects/Asembler2/cmake-build-debug/CMakeFiles/Asembler2.dir
+C:/Users/John/CLionProjects/Asembler2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/John/CLionProjects/Asembler2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
