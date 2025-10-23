@@ -12,6 +12,16 @@
 # =============================================================================
 
 #############################################
+# Rule for compiling ASM files.
+
+rule ASM_COMPILER__Asembler2_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = C:\Users\John\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building ASM object $out
+
+
+#############################################
 # Rule for compiling CXX files.
 
 rule CXX_COMPILER__Asembler2_unscanned_Debug

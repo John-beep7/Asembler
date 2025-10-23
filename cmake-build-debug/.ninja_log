@@ -1,9 +1,8 @@
 # ninja log v5
-9	1118	7818929569714013	CMakeFiles/Asembler2.dir/src_gauss_jordan.cpp.obj	adbcc14c21307a7b
-3	639	7818984096278932	CMakeFiles/Asembler2.dir/main.cpp.obj	ff5457576707b6e1
-640	849	7818984098301744	Asembler2.exe	2248194d5ec6bc6e
-19	265	7827660307125830	build.ninja	1b4accb25a89265c
-5	358	7827660307125830	build.ninja	1b4accb25a89265c
-16	1969	7827660327140515	CMakeFiles/Asembler2.dir/main.cpp.obj	ff5457576707b6e1
-44	2084	7827660328272084	CMakeFiles/Asembler2.dir/src_gauss_jordan.cpp.obj	adbcc14c21307a7b
-2084	2493	7827660332286792	Asembler2.exe	2248194d5ec6bc6e
+25	1465	7827724362011708	CMakeFiles/Asembler2.dir/src_gauss_jordan.cpp.obj	adbcc14c21307a7b
+4	1060	7827724357987250	CMakeFiles/Asembler2.dir/main.cpp.obj	ff5457576707b6e1
+1466	1723	7827724364565195	Asembler2.exe	185fe947fa29d05
+2	165	7829132405360175	build.ninja	1b4accb25a89265c
+0	10	0	clean	6a78ab313e04395c
+21	64	7827724348052571	CMakeFiles/Asembler2.dir/matrix_asm.s.obj	7ae785b3b33966ed
+9	412	7829132405360175	build.ninja	1b4accb25a89265c

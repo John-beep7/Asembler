@@ -5,6 +5,8 @@
 #include <algorithm>
 #include <thread>
 #include <iomanip>  // at the top of your file
+extern "C" void matrixASM();
+
 
 
 
@@ -16,7 +18,15 @@ static int parseIntOrDefault(const char *s, int def) {
     }
 }
 
+
+
+
+
 int main(int argc, char **argv) {
+
+    matrixASM();
+
+
     // default parameters
     int size = 256;         // default matrix dimension (n)
     unsigned threadCount = 0; // 0 -> auto detect hardware_concurrency
