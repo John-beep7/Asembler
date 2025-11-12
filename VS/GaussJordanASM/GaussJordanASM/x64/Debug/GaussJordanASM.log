@@ -1,0 +1,13 @@
+﻿  Matrix.cpp
+C:\Users\John\source\vs22\repos\GaussJordanASM\GaussJordanASM\Matrix.cpp(66,14): error C2039: 'elimination_worker': is not a member of 'Matrix'
+      C:\Users\John\source\vs22\repos\GaussJordanASM\GaussJordanASM\Matrix.h(9,7):
+      see declaration of 'Matrix'
+  
+C:\Users\John\source\vs22\repos\GaussJordanASM\GaussJordanASM\Matrix.cpp(66,98): error C2061: syntax error: identifier 'ImplementationType'
+C:\Users\John\source\vs22\repos\GaussJordanASM\GaussJordanASM\Matrix.cpp(77,37): error C3861: 'at': identifier not found
+C:\Users\John\source\vs22\repos\GaussJordanASM\GaussJordanASM\Matrix.cpp(80,13): error C3861: 'subtract_row_single_thread': identifier not found
+C:\Users\John\source\vs22\repos\GaussJordanASM\GaussJordanASM\Matrix.cpp(83,13): error C3861: 'at': identifier not found
+C:\Users\John\source\vs22\repos\GaussJordanASM\GaussJordanASM\Matrix.cpp(179,47): error C2039: 'elimination_worker': is not a member of 'Matrix'
+      C:\Users\John\source\vs22\repos\GaussJordanASM\GaussJordanASM\Matrix.h(9,7):
+      see declaration of 'Matrix'
+  
